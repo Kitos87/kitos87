@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt-текст](https://media1.tenor.com/m/CcIpi7aufiYAAAAd/cristiano-ronaldo-cristiano-vamooos.gif)
+![Alt-текст](https://media1.tenor.com/m/9nEdQmLxArAAAAAC/a.gif)
 
 <!--
 **Kitos87/kitos87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
