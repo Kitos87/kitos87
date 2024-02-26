@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt-текст](https://media1.tenor.com/m/c7CH2rSh6ysAAAAC/when-your-friend-says-come-come.gif](https://media1.tenor.com/m/jak75Z8ZsLQAAAAd/cr7-cristiano-ronaldo.gif)
+![Alt-текст](https://media1.tenor.com/m/jak75Z8ZsLQAAAAd/cr7-cristiano-ronaldo.gif](https://media1.tenor.com/m/jak75Z8ZsLQAAAAd/cr7-cristiano-ronaldo.gif))
 
 <!--
 **Kitos87/kitos87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
